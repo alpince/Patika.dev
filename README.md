@@ -1,7 +1,5 @@
-# Patika.dev
 
-
-*1.Ödev* 
+# 1.Ödev
 
 1.film tablosunda bulunan title ve description sütunlarındaki verileri sıralayınız.
 ```Sql
